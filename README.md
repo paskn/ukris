@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/229034023.svg)](https://zenodo.org/badge/latestdoi/229034023)
 # ukris: A dataset with news messages from a Russian and a Ukrainian TV news channels
 
 This data was used in the following publications:
